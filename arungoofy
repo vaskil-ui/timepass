@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"fuck this shit  i am done with this bullshit";
+cout<<"fuck this shit  i am done with this bullshit assdsada";
 return 0;
 }
