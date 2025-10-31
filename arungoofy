@@ -2,3 +2,5 @@
 using namespace std;
 int main(){
 cout<<"arun is a goofyasss guy";
+return 0;
+}
